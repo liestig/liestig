@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#" style="pointer-events: none;">
-    <img src="seamless_sky.gif" alt="Seamless Sky" style="width: 100vw; height: 256px; object-fit: cover;">
+    <img src="seamless_sky.gif" alt="Seamless Sky" style="width: 100vw; height: 256px; object-fit: cover; pointer-events: none;">
   </a>
 </p>
 
