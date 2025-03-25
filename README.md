@@ -3,7 +3,7 @@
 **Welcome to my GitHub profile! Glad to have you here.**
 
 <p align="center">
-  <a href="#">
+  <a href="#" style="pointer-events: none;">
     <img src="seamless_sky.gif" alt="Seamless Sky" style="width: 100vw; height: 256px; object-fit: cover;">
   </a>
 </p>
