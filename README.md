@@ -21,7 +21,7 @@ where I focus on improving the **user experience** related to personal accounts.
 ## 🐠📱 Fishbotica
 
 I'm also part of an amazing project called [**Fishbotica**](https://fishbotica.fr/). We're on a mission to make **aquarium keeping** accessible to both beginners and experts.  
-The project is still in its early stages, but is incubated at [**Nausicaá**](https://www.nausicaa.fr/en) and actively
+The project is still in its early stages, but is incubated at [**Nausicaá**](https://www.nausicaa.fr/en/committed-center/blue-living-lab) and actively
 followed by them. Join us on social media to be part of the adventure!
 
 ## 📇 Social media
