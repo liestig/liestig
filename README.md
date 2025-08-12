@@ -28,6 +28,3 @@ followed by them. Join us on social media to be part of the adventure!
 
 🔗 [**LinkedIn: Me**](https://www.linkedin.com/in/liès-tiguercha/)  
 🔗 [**LinkedIn: Fishbotica**](https://www.linkedin.com/company/fishbotica/)  
-
-##
-![liestig's Stats](https://github-readme-stats.vercel.app/api?username=liestig&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true) 
