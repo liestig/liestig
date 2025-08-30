@@ -13,11 +13,6 @@
 Hi! I'm **Liès**, a **25-year-old software engineer** based in **France**. I love tackling complex problems, exploring
 innovative solutions, and contributing to research-driven projects.
 
-## 🌍🏅 Decathlon
-
-I'm currently working as a **Software Development Engineer** at [**Decathlon**](https://sustainability.decathlon.com/),
-where I focus on improving the **user experience** related to personal accounts.
-
 ## 🐠📱 Fishbotica
 
 I'm also part of an amazing project called [**Fishbotica**](https://fishbotica.com/). We're on a mission to make **aquarium keeping** accessible to both beginners and experts.  
