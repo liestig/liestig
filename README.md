@@ -15,7 +15,7 @@ innovative solutions, and contributing to research-driven projects.
 
 ## 🐠📱 Fishbotica
 
-I'm also part of an amazing project called [**Fishbotica**](https://fishbotica.com/). We're on a mission to make **aquarium keeping** accessible to both beginners and experts.  
+I'm part of an amazing project called [**Fishbotica**](https://fishbotica.com/). We're on a mission to make **aquarium keeping** accessible to both beginners and experts.  
 The project is still in its early stages, but is incubated at [**Nausicaá**](https://www.nausicaa.fr/en/committed-center/blue-living-lab) and actively
 followed by them. Join us on social media to be part of the adventure!
 
